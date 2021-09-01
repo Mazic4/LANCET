@@ -1,0 +1,14 @@
+*.png
+*.pth
+*.mat
+*.txt
+*.out
+*.npz
+data/
+DeepFool/
+har/UCI_HAR_Dataset
+speechcommands/speechcommands/dataset
+__pycache__/*.pyc
+data_loaders/__pycache__/*.pyc
+models/__pycache__/*.pyc
+*.pyc
